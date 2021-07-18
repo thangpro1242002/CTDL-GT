@@ -1,3 +1,4 @@
+install.packages('data.tree')
 library(data.tree)
 
 # thiet lap cay
